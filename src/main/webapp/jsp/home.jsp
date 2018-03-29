@@ -16,7 +16,7 @@ body { margin:0; padding:0; }
 #header_container { background:#8AC007;  height:50px; left:0; position:fixed; width:100%; top:0; }
 #header{ line-height:40px; margin:0 auto; width:940px; text-align:center;font-weight: bolder;font-size: 30px;color:white;}
  
- .smart-green {
+ .smart-red {
     width: 400px;
     margin-top:200px;
     margin-right: auto;
@@ -31,7 +31,7 @@ body { margin:0; padding:0; }
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
 }
-.smart-green h1 {
+.smart-red h1 {
     font: 24px "Trebuchet MS", Arial, Helvetica, sans-serif;
     padding: 20px 0px 20px 40px;
     display: block;
@@ -45,22 +45,22 @@ body { margin:0; padding:0; }
     border-bottom:1px solid #89AF4C;
 
 }
-.smart-green h1>span {
+.smart-red h1>span {
     display: block;
     font-size: 11px;
     color: #FFF;
 }
 
-.smart-green label {
+.smart-red label {
     display: block;
     margin: 0px 0px 5px;
 }
-.smart-green label>span {
+.smart-red label>span {
     float: left;
     margin-top: 10px;
     color: #5E5E5E;
 }
-.smart-green td,tr {
+.smart-red td,tr {
     color: #555;
     height:24px;
     width: 96%;
