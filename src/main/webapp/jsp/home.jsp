@@ -26,7 +26,7 @@ body { margin:0; padding:0; }
     box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
     -webkit-box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
     font: 12px Arial, Helvetica, sans-serif;
-    color: #666;
+    color: #8A0868;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -36,7 +36,7 @@ body { margin:0; padding:0; }
     padding: 20px 0px 20px 40px;
     display: block;
     margin: -30px -30px 10px -30px;
-    color: #FFF;
+    color: #8A0868;
     background: #9DC45F;
     text-shadow: 1px 1px 1px #949494;
     border-radius: 5px 5px 0px 0px;
@@ -48,7 +48,7 @@ body { margin:0; padding:0; }
 .smart-red h1>span {
     display: block;
     font-size: 11px;
-    color: #FFF;
+    color: #8A0868;
 }
 
 .smart-red label {
@@ -58,25 +58,25 @@ body { margin:0; padding:0; }
 .smart-red label>span {
     float: left;
     margin-top: 10px;
-    color: #5E5E5E;
+    color: #8A0868;
 }
 .smart-red td,tr {
-    color: #555;
+    color: #8A0868;
     height:24px;
     width: 96%;
     padding: 3px 3px 3px 10px;
     margin-top: 2px;
     margin-bottom: 16px;
-    border: 1px solid #E5E5E5;
-    background: #FBFBFB;
+    border: 1px solid #8A0868;
+    background: #8A0868;
     outline: 0;
     -webkit-box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
     box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
     font: normal 14px/14px Arial, Helvetica, sans-serif;
 }
 
-a:link {color:#9DC45F;}    /* unvisited link */
-a:hover {color:#80A24A;}   /* mouse over link */
+a:link {color:#8A0868;}    /* unvisited link */
+a:hover {color:#8A0868;}   /* mouse over link */
 </style>
 </head>
 <body>
