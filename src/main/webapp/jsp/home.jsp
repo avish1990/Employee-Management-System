@@ -85,7 +85,7 @@ a:hover {color:#80A24A;}   /* mouse over link */
        Employee Management System- BambooDemo
     </div>
 </div>
-<div class="smart-green" >
+<div class="smart-red" >
 <h1>Employee Details</h1>
 		<table>
 			<tr>
