@@ -6,7 +6,7 @@
 ); */
 
 -- for MySQL
- 
+ USE test;
  CREATE  TABLE `test`.`employee` (
   `code` INT NOT NULL ,
   `name` VARCHAR(45) NOT NULL ,
