@@ -120,7 +120,7 @@
 
 			<props>
 
-				<prop key="hibernate.dialect">${DIALECT}</prop>
+				<prop key="hibernate.dialect">${jdbc.dialect}</prop>
 
 				<prop key="hibernate.show_sql">true</prop>
 
