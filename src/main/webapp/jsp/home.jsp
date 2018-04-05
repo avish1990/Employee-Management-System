@@ -75,8 +75,8 @@ body { margin:0; padding:0; }
     font: normal 14px/14px Arial, Helvetica, sans-serif;
 }
 
-a:link {color:#FF0000;}    /* unvisited link */
-a:hover {color:#FF0000;}   /* mouse over link */
+a:link {color:#800000;}    /* unvisited link */
+a:hover {color:#800000;}   /* mouse over link */
 </style>
 </head>
 <body>
