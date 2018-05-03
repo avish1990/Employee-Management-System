@@ -21,7 +21,7 @@ body { margin:0; padding:0; }
     margin-top:200px;
     margin-right: auto;
     margin-left: auto;
-    background: #FFF;
+    background: #000000;
     padding: 30px 30px 20px 30px;
     box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
     -webkit-box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
@@ -61,7 +61,7 @@ body { margin:0; padding:0; }
     color: #8A0868;
 }
 .smart-red td,tr {
-    color: #8A0868;
+    color: #000000;
     height:24px;
     width: 96%;
     padding: 3px 3px 3px 10px;
@@ -75,8 +75,8 @@ body { margin:0; padding:0; }
     font: normal 14px/14px Arial, Helvetica, sans-serif;
 }
 
-a:link {color:####FF0000;}    /* unvisited link */
-a:hover {color:####FF0000;}   /* mouse over link */
+a:link {color:####000000;}    /* unvisited link */
+a:hover {color:####000000;}   /* mouse over link */
 </style>
 </head>
 <body>
