@@ -21,7 +21,7 @@ body { margin:0; padding:0; }
     margin-top:200px;
     margin-right: auto;
     margin-left: auto;
-    background: #660000;
+    background: #0000ff;
     padding: 30px 30px 20px 30px;
     box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
     -webkit-box-shadow: rgba(194, 194, 194, 0.7) 0 3px 10px -1px;
@@ -37,7 +37,7 @@ body { margin:0; padding:0; }
     display: block;
     margin: -30px -30px 10px -30px;
     color: #8A0868;
-    background: #ffffff;
+    background: #0000ff;
     text-shadow: 1px 1px 1px #949494;
     border-radius: 5px 5px 0px 0px;
     -webkit-border-radius: 5px 5px 0px 0px;
