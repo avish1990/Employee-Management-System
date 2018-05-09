@@ -37,7 +37,7 @@ body { margin:0; padding:0; }
     display: block;
     margin: -30px -30px 10px -30px;
     color: #8A0868;
-    background: #0000ff;
+    background: #e60000;
     text-shadow: 1px 1px 1px #949494;
     border-radius: 5px 5px 0px 0px;
     -webkit-border-radius: 5px 5px 0px 0px;
@@ -68,7 +68,7 @@ body { margin:0; padding:0; }
     margin-top: 2px;
     margin-bottom: 16px;
     border: 1px solid #8A0868;
-    background: #ffffff;
+    background: #e60000;
     outline: 0;
     -webkit-box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
     box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
